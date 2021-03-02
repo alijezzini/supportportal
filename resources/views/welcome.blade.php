@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    MM Support Portals
+                    Support Portals
                 </div>
 
                 <div class="links">
